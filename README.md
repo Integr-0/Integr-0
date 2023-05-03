@@ -1,16 +1,12 @@
-### Hi there 👋
+### About Me
+- Java is fun :coffee:
+- Also playing Minecraft
+- IGN: Erik_R
 
-<!--
-**Erik-R-1/Erik-R-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Discord: @Erik_R#9545
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Projects
+- StarfishBot, a Discord bot for Moderation [PRIVATE]
+- MoraModeration, a Minecraft Plugin for Moderation [PRIVATE]
+- CombatMod, a Minecraft Mod with a nice gui for better combat
+- ClientMod v2, a Minecraft Mod with misc features
