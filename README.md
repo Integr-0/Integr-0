@@ -5,5 +5,5 @@
 
 ### My Projects 🛠️
 - StarfishBot, a Discord bot [🔴PRIVATE]
-- MoraModeration, a Minecraft Plugin for Moderation [🔴PRIVATE]
+- MoraModeration, a Minecraft Plugin for Moderation [🔴PRIVATE | DISCONTINUED]
 - CombatMod, a Minecraft Mod (More in Readme) [🟢PUBLIC]
