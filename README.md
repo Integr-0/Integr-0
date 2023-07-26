@@ -1,7 +1,7 @@
 ### About Me ℹ️
 - Java is fun ☕
 - Also playing Minecraft 🎮
-- IGN: Erik_R 📄
+- IGN: Integr 📄
 
 ### My Projects 🛠️
 - StarfishBot, a Discord bot [🔴PRIVATE]
