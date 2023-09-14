@@ -1,5 +1,5 @@
 ### About Me ℹ️
-- Java is fun ☕
+- Java is my favorite ☕
 - Also playing Minecraft 🎮
 
 ### My Big Projects 🛠️
