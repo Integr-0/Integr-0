@@ -13,5 +13,5 @@
 - **I like Wiener Schnitzel 😋 (No food emoji for tht 🙁)**
 
 <p align="center">
-<img src="https://widgets.vendicated.dev/user?id=688059979105697844&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=false&badges=true&guess-nitro=false&" width="50%"/>
+<img src="https://widgets.vendicated.dev/user?id=688059979105697844&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=false&badges=true&guess-nitro=false" width="50%"/>
 </p>
