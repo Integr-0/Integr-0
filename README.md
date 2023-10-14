@@ -10,3 +10,4 @@
 - **Current Main Project:** [Visual HTML Editor](https://github.com/Julian-Mostbauer/Visual-Html-Editor)
 - **Playing and Modding Minecraft  :video_game:**
 **IGN:**  `Integr`
+- **I like Wiener Schnitzel 😋 (No food emoji for tht 🙁)**
