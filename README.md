@@ -12,3 +12,5 @@
 **IGN:**  `Integr`
 - **I like Wiener Schnitzel 😋 (No food emoji for tht 🙁)**
 - **Discord: @integr_**
+
+- **All Info:** [My page](http://integr-0.github.io/Integr-0)
