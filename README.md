@@ -5,12 +5,12 @@
 
 - **Im From Austria!**
 
-- **Java is my Favorite Language**  :coffee:
-- **Also Using React, C# and Python**
+- **Kotlin is my Favorite Language**  :coffee:
+- **Also Using React, C# and many more**
 - **Current Main Project:** [Visual HTML Editor](https://github.com/Julian-Mostbauer/Visual-Html-Editor)
 - **Playing and Modding Minecraft  :video_game:**
 **IGN:**  `Integr`
 - **I like Wiener Schnitzel 😋 (No food emoji for tht 🙁)**
 - **Discord: @integr_**
 
-- **All Info:** [My page](http://integr-0.github.io/Integr-0)
+- **All Info:** [My page](https://integr-0.github.io/Main/)
