@@ -1,5 +1,5 @@
 
-# **All Info:** [My page](https://integr-0.github.io/Main/)
+**All Info:** 🔨 [My page](https://integr.is-a.dev)
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=integr-0&color=orange" width="10%"/>
   
